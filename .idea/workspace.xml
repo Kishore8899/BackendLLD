@@ -1,27 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="be23e7e9-fb51-4c34-9592-2b4e3ae23287" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/AccessModifiers/ChildStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/AccessModifiers/ChildStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/AccessModifiers/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/AccessModifiers/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Constructors/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Constructors/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Constructors/Exam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Constructors/Exam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Constructors/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Constructors/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/C.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/D.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Inheritance/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/IntroToOOPs/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/IntroToOOPs/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/IntroToOOPs/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/IntroToOOPs/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/META-INF/scalerBackendLLDAprJun23.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Polymorphism/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Polymorphism/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Polymorphism/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Polymorphism/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Polymorphism/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Polymorphism/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/scalerBackendLLDAprJun23/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/A.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Inheritance/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -189,11 +197,15 @@
       </list>
     </option>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="886" />
     <option name="height" value="733" />
   </component>
+  <component name="ProjectId" id="2aq9BQTfwotLiXqenxH2LosH0xz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -230,30 +242,33 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Client (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kkumarka/Documents/BackendLLD&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="AccessModifiers" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Client (3)">
+  <component name="RunManager" selected="Application.Client (2)">
     <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Constructors.Client" />
       <module name="scalerBackendLLDAprJun23" />
@@ -325,14 +340,22 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (3)" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Client (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Client (3)" />
         <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.Client" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-13.0.14-azul-13.0.14-f644763e9732-6f64efe9" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -343,6 +366,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1704381917207</updated>
+      <workItem from="1705035108274" duration="821000" />
+      <workItem from="1705288936443" duration="589000" />
     </task>
     <servers />
   </component>
@@ -408,25 +433,63 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/IntroToOOPs/Client.java</url>
           <line>14</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Constructors/Client.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Inheritance/Client.java</url>
           <line>11</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
