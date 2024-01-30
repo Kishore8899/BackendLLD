@@ -21,12 +21,12 @@ public class Store {
     }
 
     public void addItem(){
-        System.out.println("Producer is producing, current size : "+ items.size());
+        System.out.println("Thread: "+Thread.currentThread().getName()+" Producer is producing, current size : "+ items.size());
         items.add(new Object());
     }
 
     public void removeItem(){
-        System.out.println("Consumer is consuming, current size : "+ items.size());
+        System.out.println("Thread: "+Thread.currentThread().getName()+" Consumer is consuming, current size : "+ items.size());
         items.remove(items.size()-1);
     }
 }
